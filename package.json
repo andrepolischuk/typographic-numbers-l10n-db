@@ -1,0 +1,21 @@
+{
+  "name": "typographic-numbers-l10n-db",
+  "description": "Raw data about typographic numbers",
+  "version": "0.0.0",
+  "keywords": [
+    "typographic",
+    "formatting",
+    "numbers",
+    "separator",
+    "decimal",
+    "point",
+    "db"
+  ],
+  "repository": "andrepolischuk/typographic-numbers-l10n-db",
+  "main": "index.js",
+  "scripts": {
+    "postpublish": "git push --follow-tags"
+  },
+  "author": "Andrey Polischuk <andre.polischuk@gmail.com> (https://twitter.com/andrepolischuk)",
+  "license": "MIT"
+}
